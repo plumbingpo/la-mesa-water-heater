@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lamesawaterheater.com/sitemap.xml
